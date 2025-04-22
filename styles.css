@@ -14,7 +14,7 @@
     
     /* Dark Theme */
     --dark-primary: #2dd4bf;
-    --dark-danger: #ef4444;
+    --dark-danger: #ef4445;
     --dark-warning: #f59e0b;
     --dark-text: #e5e7eb;
     --dark-bg: #1a1a1a;
@@ -45,7 +45,7 @@
     --sunset-text: #1f2937;
     --sunset-bg: #fff7ed;
     --sunset-card: #ffffff;
-    --sunset-card-hover: rgba(249, 115, 22, 0.05);
+    --sunset-card-hover: rgba(249, 115, 21, 0.05);
     --sunset-tips-bg: #fed7aa;
     --sunset-battery-bg: #fed7aa;
     --sunset-gradient-start: #fff7ed;
